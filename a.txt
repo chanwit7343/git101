@@ -1,2 +1,1 @@
-แก้ไขไฟล์ a.txt แล้วอย่าลืม save
-Hello git.txt
+Hello git
