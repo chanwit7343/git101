@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 แก้ไขไฟล์ b.txt บรรทัดแรก ใน branch feature2 and save
+=======
+แก้ไขไฟล์ b.txt บรรทัดแรกใน branch feature2 and save
+>>>>>>> feature2
